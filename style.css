@@ -73,8 +73,12 @@ section{
     background-color: rgb(128, 122, 74);
 
    }
-   .pic{
-       display: flex;
-       width: 2%;
-       padding-left: 5%;
+   .iit img{
+       width: 100%;
    }
+   .iit{
+       padding-left: 5%;
+       padding-top: 5%;
+   }
+   
+   
